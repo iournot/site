@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>
+            O JOEL DA O BRIOLO?
+        </title>
+        <link rel="stylesheet" href="style.css">
+        <style>
+            body{
+                background-color: black;
+                h1{
+                    color: rgb(255, 0, 0);
+                    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                    text-align: center;
+                }
+                p{
+                    color: rgb(0, 255, 34);
+                    font-family: Verdana, Geneva, Tahoma, sans-serif;
+                    text-align: center;
+                }
+                img{
+                    max-height: 300px;
+                }
+                div.cientistas{
+                    margin: auto 0%;
+                    align-content: center;
+                    justify-content: center;
+                    display: flex;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <h1>História de um viado que se chama Joel Morais Soares</h1>
+        <hr>
+        <p>
+            joel é uma garotinha que nasceu em gravataí e sentia tesão por homens aleatórios. <br>
+            desde os 2 anos de idade adorava assistir porno gay e cresceu assim, a fase de poucos anos depois teve a magnífica ideia de se tornar gay por um período indeterminado no meepcity.
+            <hr>
+            <h1>conclusão</h1>
+            <hr>
+            <p>o joel é um viado.</p> 
+        </p>
+        <hr>
+        <h1>Algumas fotos de cientistas que estudaram essa entidade </h1>
+        <div class="cientistas">
+        <img src="/Users/Diego/Documents/Projetos VS CODE REPAPYMI/HTML & CSS/Projetos/lucas biografia/2024-02-07 16.33.35.jpg">
+        </div>
+
+    </body>
+</html>
